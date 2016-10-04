@@ -1,5 +1,5 @@
 # dark-PHP
-Small library in PHP for all operations with a Data-Base
+Small library in PHP for all operations with a Data-Base or for security
 ---------------------------------------------------------------------------------------------------------
 The Requirements:
 Basics PHP and Apache local host server
