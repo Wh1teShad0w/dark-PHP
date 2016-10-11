@@ -51,3 +51,6 @@ When you want to do an operation to a Data base you all ready have to code:<br>
                 
  NB: I am just now all redy work on it so it can be have some bug for this version 1.0
  Thank's to read the readme and have fun, i hope it will be helpfull
+ -----------------------------------------------------------------------------------------------------------------------------------
+ 
+ Ceci dit, il est important que je precise q ce n'est une petite partie de l'iceberg, je travaille now sur un moyen, a partir du fichier SQL generer par le diagrame de classe de faire des maniulations avk la base de donnees simples comme bonjour, vous verrez hihihihih
