@@ -1,9 +1,8 @@
 # dark-PHP
-Small library in PHP for all operations with a Data-Base or for security
+Small library in PHP for all operations with a Data-Base and bigs packages of some functions
 ---------------------------------------------------------------------------------------------------------
-The Requirements:
-------------------------------------------------------------------------------------------------------
-Basics on PHP and an apache local host server
+Requirements: Basics on PHP and an apache local host server
+--------------------------------------------------------------------------------------------------------------------
  Toutes vos operations avec la Base de donnees et des fonctions MBOMAYEEHH en PHP pour vous faciliter la live
  
  NB: I am just now all redy work on it so it can be have some bug for this version 1.0 and 2.0
