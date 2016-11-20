@@ -9,7 +9,7 @@
 /* Dark PHP VERSION 2 **********************************************************************************************************/
 
 class darkDB {
-	
+	//J'ai mon joli constructeur
 	function __construct(){
 		// configuration d la base de donnees
 		$dbHost = 'localhost';
